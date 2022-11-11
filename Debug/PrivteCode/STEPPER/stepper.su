@@ -1,0 +1,3 @@
+stepper.c:15:6:SetMotor	16	static
+stepper.c:63:6:motor_circle	40	static
+stepper.c:90:6:Motor_contin	24	static

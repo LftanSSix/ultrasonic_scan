@@ -1,0 +1,2 @@
+ultrasonic_scan.c:6:6:Send_Pluse	8	static
+ultrasonic_scan.c:19:7:Receive	24	static
